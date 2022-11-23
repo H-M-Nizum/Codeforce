@@ -17,3 +17,4 @@ for t in range(int(input())):
     k = m // ans
 
     print(ans * n * k)
+    H - M - Nizum / new - folder
